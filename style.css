@@ -1,0 +1,37 @@
+body{ 
+    b
+
+    
+}
+h1{
+    background: linear-gradient(to right,skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: green;
+    color: rgb(50, 120, 148),rgb(12, 192, 12)
+    font-family: "press start 2p","consolas"; sans-serif;
+    border-top-style: dotted;
+    border-bottom-style: solid;
+    border-left-style: double;
+    border-right-style: outset;
+    border-left-width: 10px;
+    border-left-color: burlywood;
+    text-shadow: 0px 0px 5px 
+}
+h2{
+    background: linear-gradient(to right,skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: linear-gradient(to right,skyblue,lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+a:link{
+    color: black;
+
+}   
+a:link{
+    color: rgb(113, 6, 6)
+} 
+   
+
